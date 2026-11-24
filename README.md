@@ -1,5 +1,7 @@
 # QA API Suite — Restful Booker
 
+[![API Tests](https://github.com/red-ruby-quay/qa-api-suite/actions/workflows/api-tests.yml/badge.svg)](https://github.com/red-ruby-quay/qa-api-suite/actions/workflows/api-tests.yml)
+
 API test suite built with Playwright's request context, TypeScript, and Zod schema validation. Covers authentication, full CRUD lifecycle, partial updates, negative cases, and response-contract validation.
 
 ## What this repo demonstrates
